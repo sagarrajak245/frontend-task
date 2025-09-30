@@ -28,7 +28,7 @@ const generateCustomer = (index) => {
             year: 'numeric',
         }),
         addedBy: faker.person.fullName(),
-        // Using the random Unsplash URL format you provided
+
         avatar: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=facearea&w=40&h=40&facepad=2",
     };
 
