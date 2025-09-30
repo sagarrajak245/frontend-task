@@ -2,6 +2,10 @@
 
 A performant React app for displaying, searching, filtering, and sorting a large list of customers with virtualization and infinite loading.
 
+
+## Live demo[`live`](https://frontend-task-two-liard.vercel.app/)
+
+
 ---
 ## Example Screenshots
 
