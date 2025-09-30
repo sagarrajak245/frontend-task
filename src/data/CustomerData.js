@@ -21,7 +21,7 @@ const generateCustomer = (index) => {
         name: name,
         phone: faker.phone.number(),
         email: faker.internet.email({ firstName, lastName }),
-        messageCount: faker.number.int({ min: 1, max: 99 }),
+        messageCount: faker.number.int({ min: 1, max: 9 }),
         lastMessageDate: faker.date.recent().toLocaleDateString('en-US', {
             month: 'long',
             day: 'numeric',
@@ -29,7 +29,7 @@ const generateCustomer = (index) => {
         }),
         addedBy: faker.person.fullName(),
         // Using the random Unsplash URL format you provided
-        avatar: `https://source.unsplash.com/random/40x40?sig=${index}&face`,
+        avatar: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=facearea&w=40&h=40&facepad=2",
     };
 
     customerCache[index] = customer;
