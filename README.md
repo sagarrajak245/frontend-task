@@ -3,6 +3,11 @@
 A performant React app for displaying, searching, filtering, and sorting a large list of customers with virtualization and infinite loading.
 
 ---
+## Example Screenshots
+
+<img width="1845" height="825" alt="image" src="https://github.com/user-attachments/assets/bc94a383-496c-457f-a415-9cdbe135f6d4" />
+
+
 
 ## Features
 
@@ -15,6 +20,8 @@ A performant React app for displaying, searching, filtering, and sorting a large
 - **Selection:** Checkbox for selecting customers (UI only).
 
 ---
+
+
 
 ## Folder Structure
 
@@ -100,9 +107,7 @@ Visit [http://localhost:3000](http://localhost:3000) (or the port shown in your 
 
 ---
 
-## Example Screenshots
 
-![Customer List UI](./screenshots/customer-list.png)
 
 ---
 
