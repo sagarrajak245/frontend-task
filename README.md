@@ -7,6 +7,9 @@ A performant React app for displaying, searching, filtering, and sorting a large
 
 <img width="1845" height="825" alt="image" src="https://github.com/user-attachments/assets/bc94a383-496c-457f-a415-9cdbe135f6d4" />
 
+<img width="1882" height="814" alt="image" src="https://github.com/user-attachments/assets/ca22c8d0-ceec-4d84-8e36-43a105d2b895" />
+
+
 
 
 ## Features
